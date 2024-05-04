@@ -1,0 +1,6 @@
+[submodule "Plugins/Jxx_UE5_ToolsPlugins"]
+	path = Plugins/Jxx_UE5_ToolsPlugins
+	url = https://github.com/jiangxiaoxu/Jxx_UE5_ToolsPlugins.git
+[submodule "Plugins/FlowGraph"]
+	path = Plugins/FlowGraph
+	url = https://github.com/jiangxiaoxu/FlowGraph.git
